@@ -84,7 +84,6 @@ Packages/      Unity package manifest (AR Foundation, ARCore XR Plugin)
 ProjectSettings/
 ```
 
-(Adjust folder names to match the repository.)
 
 ## License and credits
 
